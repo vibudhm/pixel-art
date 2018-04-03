@@ -1,9 +1,7 @@
 # Pixel Art Maker Project
 
-## Table of Contents
 
-* [Instructions](#instructions)
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To get started, download the files and open `index.html` file in the browser.
